@@ -29,7 +29,7 @@ body {
   max-width: 980px;
   margin: 0 auto;
   background: transparent;
-  color: #9e5353;
+  color: #b20000;
 }
 
 .kom{
@@ -40,7 +40,7 @@ body {
 }
 
 .stylesheet{
-  color: rgb(1, 111, 121);
+  color: rgb(255, 0, 149);
   font-size: 15px;
   text-align: center;
 }
@@ -122,8 +122,11 @@ a:hover { text-decoration:underline; }
 
 .PUBLISH-YUVRAJ{
   text-align: center;
-  margin-top: 100px;
+  margin-top: 50px;
   font-size: 30px;
   color: rgb(49, 36, 36);
 }
 
+.form-container {
+  text-align: center;
+}
